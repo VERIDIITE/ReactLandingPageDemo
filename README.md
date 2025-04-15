@@ -2,7 +2,8 @@
 
 A modern, responsive landing page for AI products and services built with React and TypeScript.
 
-![AI Landing Page](/api/placeholder/800/400 "AI Landing Page Preview")
+![AI Landing Page](LP2.png)
+![AI Landing Page](LP1.png)
 
 ## 🌟 Features
 
