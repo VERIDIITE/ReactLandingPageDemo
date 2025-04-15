@@ -61,7 +61,8 @@ This project uses Tailwind CSS for styling. You can customize the theme in `tail
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
-- PEDROTECH
+- [PedroTech](https://www.youtube.com/@PedroTechnologies)
+
 
 ## 📞 Contact
 
