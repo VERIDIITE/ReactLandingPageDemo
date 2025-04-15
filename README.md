@@ -1,4 +1,4 @@
-# AI Landing Page 🚀
+# Landing Page for AI 🚀
 
 A modern, responsive landing page for AI products and services built with React and TypeScript.
 
