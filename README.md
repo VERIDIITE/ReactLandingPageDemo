@@ -54,9 +54,6 @@ landing-page/
 
 This project uses Tailwind CSS for styling. You can customize the theme in `tailwind.config.js`:
 
-```js
-
-
 ## 🙏 Acknowledgements
 
 - [React](https://reactjs.org/)
